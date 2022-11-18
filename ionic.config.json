@@ -1,0 +1,8 @@
+{
+  "name": "Coba",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "76b0de05"
+}
